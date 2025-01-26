@@ -1,0 +1,19 @@
+{
+    "deprecated": true,
+    "useWebview": true,
+    "useNativePlayer": true,
+    "api": "2",
+    "type": "anime",
+    "name": "",
+    "version": "1.0",
+    "baseURL": "",
+    "searchURL": "",
+    "searchList": "",
+    "searchName": "",
+    "searchResult": "",
+    "chapterRoads": "",
+    "chapterResult": "",
+    "muliSources": true,
+    "usePost": false,
+    "userAgent": ""
+}
